@@ -11,4 +11,4 @@
 &  ./TBomb.sh
      exit
 &   python bomber.py
-   ENTER CHOICE 
+    ENTER CHOICE 
