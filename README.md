@@ -4,7 +4,7 @@
 && pkg install python 
 && pkg install python2 
 && pkg install python3 -y
-&  git clone https://github.com/TheSpeedX/TBomb
+&  git clone 
 &   cd TBomb
 &   chmod +x *
 &   ls
